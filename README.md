@@ -22,7 +22,7 @@
 
 <div align="center">
   <h3>Stats</h3>
-  <img alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-blancoc&layout=compact">
+  <img alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-blancoc&layout=compact" href="https://github.com/pablo-blancoc">
 </div>
 
 
