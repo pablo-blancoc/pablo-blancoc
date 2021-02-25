@@ -5,8 +5,9 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id}." alt="visitor badge"/>
 </div>
 
-<div>
-  <img src="https://github.com/pablo-blancoc/pablo-blancoc/blob/main/pablo.jpg" alt="profile picture">
+<div align="center">
+  <h5>I'm a computer science student, passionate about technology, and always eager to learn new stuff!</h5>
+  <h4><a href="http://www.pabloblanco.me/projects/">Take a look at my projects!</a></h4>
 </div>
 
 
