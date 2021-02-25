@@ -5,6 +5,10 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id}." alt="visitor badge"/>
 </div>
 
+<div>
+  <img src="https://github.com/pablo-blancoc/pablo-blancoc/blob/main/pablo.jpg" alt="profile picture">
+</div>
+
 
 
 
