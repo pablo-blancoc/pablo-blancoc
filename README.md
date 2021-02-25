@@ -6,8 +6,8 @@
 </div>
 
 <div align="center">
-  <h5>I'm a computer science student, passionate about technology, and always eager to learn new stuff!</h5>
-  <h6><a href="http://www.pabloblanco.me/projects/">Take a look at my projects!</a></h6>
+  <h4>I'm a computer science student, passionate about technology, and always eager to learn new stuff!</h4>
+  <h5><a href="http://www.pabloblanco.me/projects/">Take a look at my projects!</a></h5>
 </div>
 
 <h3 align="left">Things I have done:</h3>
@@ -20,7 +20,7 @@
 <br>
 
 
-<div>
+<div align="center">
   <h3>Stats</h3>
   <img alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-blancoc&layout=compact">
 </div>
