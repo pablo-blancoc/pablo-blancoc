@@ -7,7 +7,7 @@
 
 <div align="center">
   <h5>I'm a computer science student, passionate about technology, and always eager to learn new stuff!</h5>
-  <h4><a href="http://www.pabloblanco.me/projects/">Take a look at my projects!</a></h4>
+  <h4><a href="http://www.pabloblanco.me/projects/" target="_blank">Take a look at my projects!</a></h4>
 </div>
 
 
