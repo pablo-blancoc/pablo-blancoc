@@ -12,7 +12,7 @@
 
 <h3 align="left">Things I have done:</h3>
 <ul align="left">
-	<li>Intern at Facebook Engineering</li>
+	<li>Engineering Intern at Facebook</li>
 	<li>Junior Software Engineer at Evolutel</li>
 	<li>Built a Chatbot for Mexico's National Electoral Institute that automates 90% of the work</li>
         <li>Built a web platform where +250 companies had a virtual expo</li>
