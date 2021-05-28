@@ -19,11 +19,15 @@
 </ul>
 <br>
 
-
-<div align="center">
-  <h3>Stats</h3>
-  <img alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-blancoc&layout=compact" href="https://github.com/pablo-blancoc">
-</div>
+## Links
+<p align="center">
+  <a href="https://www.facebook.com/pabloblanco0"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://twitter.com/pablo_blancoc"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.instagram.com/pablo_blancoc"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.linkedin.com/in/pablo-blancoc"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://medium.com/@pablo_blancoc"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+  <a href="http://www.pabloblanco.me/"><img src="https://img.icons8.com/ios/50/000000/internet--v2.png" alt="medium"/></a>
+</p>
 
 
 
