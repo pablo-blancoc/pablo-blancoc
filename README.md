@@ -1,7 +1,7 @@
 ![Hi I am Pablo](https://github.com/pablo-blancoc/pablo-blancoc/raw/main/assets/intro.gif)
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id}." alt="visitor badge">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=pablo-blancoc.pablo-blancoc" alt="visitor badge"/>
 </p>
 
 
