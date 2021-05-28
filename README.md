@@ -1,5 +1,5 @@
 <h1 align="center">Hi stranger, I'm Pablo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-![Hi! I am Pablo](https://github.com/pablo-blancoc/pablo-blancoc/raw/main/assets/intro.gif)
+![Hi I am Pablo](https://github.com/pablo-blancoc/pablo-blancoc/raw/main/assets/intro.gif)
 
 <div align="center">
   <h2 align="center"> Junior Software Engineer |  🇲🇽  Proud Mexican</h2>
